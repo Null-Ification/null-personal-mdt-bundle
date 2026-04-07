@@ -1,3 +1,9 @@
-name: Simple Bundle
+displayName: Simple Bundle
+name: simple-bundle
+author: "Null in a []"
 description: A mod tried to shorten message n stuff, still in dev. Feedback would be nice.
+subtitle: You sure this is short enough?
+version: 0.1
 minGameVersion: 154
+java: true
+hidden: true
